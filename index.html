@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Wibustore</title>
+  <link rel="stylesheet" href="res/bootstrap@5.0.0-alpha2.min.css" type="text/css" media="all" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="style.css" type="text/css" media="all" />
+  <link rel="shortcut icon" href="" type="image/x-icon" />
+</head>
+
+<body>
+  <div class="topbar">
+    <div class="container">
+      <div class="row">
+        <div class="col">
+          <i class="fa fa-search float-left" id="cari"></i>
+        </div>
+        <div class="col">
+          <img src="logo.png" alt="" />
+        </div>
+        <div class="col">
+          <i class="fa fa-bars float-right" id="sidebar-btn"></i>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="search">
+    <div class="container">
+      <div class="input-group">
+        <input type="text" class="form-control" placeholder="Cari Barang"/>
+        <div class="input-group-append">
+          <button class="btnCari"><i class="fa fa-search"></i></button>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="sidebar">
+    <div class="link">
+      <i class="fa fa-home"></i>
+      <p>Halaman Awal</p>
+    </div>
+    <div class="link">
+      <i class="fa fa-user"></i>
+      <p>Tentang Wibustore</p>
+    </div>
+    <div class="link">
+      <i class="fa fa-inbox"></i>
+      <p>Informasi</p>
+    </div>
+    <div class="link">
+      <i class="fa fa-headphones"></i>
+      <p>Kontak / Pelayanan</p>
+    </div>
+  </div>
+  
+  <div class="hero">
+    <div class="container">
+      <div class="col-sm-6">
+        <h2>Cari Aksesoris atau Manga disini</h2>
+      </div>
+    </div>
+  </div>
+  
+  <div class="tabs">
+  <div class="container">
+    <nav class="nav nav-pills nav-fill">
+      <a class="nav-link kategori active" data-url="all">All</a>
+      <a class="nav-link kategori" data-url="tshirt">T-Shirt</a>
+      <a class="nav-link kategori" data-url="accessories">Accessories</a>
+      <a class="nav-link kategori" data-url="manga">Manga</a>
+    </nav>
+  </div>
+  </div>
+  
+  <div class="main">
+    <div class="container">
+      <div class="row" id="data">
+        
+        
+      </div>
+    </div>
+  </div>
+  
+  <div class="order">
+    
+  </div>
+  
+  <footer>
+    <p>©Pamekasancode 2020</p>
+  </footer>
+  
+  <script src="app.js" type="text/javascript" charset="utf-8"></script>
+</body>
+
+</html>

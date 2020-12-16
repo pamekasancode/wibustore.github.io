@@ -1,0 +1,102 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCPNltttfI_8s2dGnVwlFSpzfma3KxBhNUXQ&usqp=CAU",
+      "name": "Persona 5",
+      "kategori": "tshirt",
+      "price": "IDR 45.000"
+    }, 
+    {
+      "id": "2",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD6TH1ImjrEB_Xaetd_l7IIgvziAHI-8Cmhg&usqp=CAU",
+      "name": "Otaku Type",
+      "kategori": "tshirt",
+      "price": "IDR 50.000"
+    },
+    {
+      "id": "3",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdUR9pF5mcdchvQ0sJyBghfCJ2GZGP_IYL5g&usqp=CAU",
+      "name": "Zero Two",
+      "kategori": "tshirt",
+      "price": "IDR 50.000"
+    },
+    {
+      "id": "4",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgDRXFkrX5s5qsky0SrKSah5Z-2taP1esRwA&usqp=CAU",
+      "name": "Death Note",
+      "kategori": "tshirt",
+      "price": "IDR 45.000"
+    },
+    {
+      "id": "5",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfQWs3uMATfHnLOtYh_LRQ0Uq8MKmV-ax15g&usqp=CAU",
+      "name": "Yukine Noragami",
+      "kategori": "tshirt",
+      "price": "IDR 70.000"
+    },
+    {
+      "id": "6",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc3-OKfByTeXlBSugIDZSG08u4WrpQwRRA9g&usqp=CAU",
+      "name": "Kimetsu No Yaiba",
+      "kategori": "tshirt",
+      "price": "IDR 70.000"
+    },
+    {
+      "id": "7",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvCR-TLCshxG53BdDCrJ9gvHZwFStySMrFg&usqp=CAU",
+      "name": "Ganci Zero Two",
+      "kategori": "accessories",
+      "price": "IDR 15.000"
+    },
+    {
+      "id": "8",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwP3SiZHquINWnrbnL6p0-BdyUfj1CTSL6_Q&usqp=CAU",
+      "name": "Casing Hp Kaneki",
+      "kategori": "accessories",
+      "price": "IDR 25.000"
+    },
+    {
+      "id": "9",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSquZiVY_KH3PhcRBsKv4w0qpiAHlr9wCs6RQ&usqp=CAU",
+      "name": "Poster Kimetsu No Yaiba",
+      "kategori": "accessories",
+      "price": "IDR 30.000"
+    },
+    {
+      "id": "10",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuSw2uK8ga-3OPEeFWR4Bymo22ZQkQiHi8WQ&usqp=CAU",
+      "name": "Action Figure Pikachu",
+      "kategori": "accessories",
+      "price": "IDR 72.000"
+    },
+    {
+      "id": "11",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS2qFt7fD7SVcEfKNCVcVhgVnFQFZ_9cAZiQ&usqp=CAU",
+      "name": "One Piece Vol 74",
+      "kategori": "manga",
+      "price": "IDR 30.000"
+    },
+    {
+      "id": "12",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWoqx8qcWzrCW9fbI-BmVeYr3GfpM7R_CIYg&usqp=CAU",
+      "name": "Detektif Conan Vol 45",
+      "kategori": "manga",
+      "price": "IDR 40.000"
+    },
+    {
+      "id": "13",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcYq3Ot5x86XSO3jqKpRxFdjR23OEMIci6Ew&usqp=CAU",
+      "name": "Boruto Vol 1",
+      "kategori": "manga",
+      "price": "IDR 30.000"
+    },
+    {
+      "id": "14",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSbMAZUqJRB4FcXPnlQTHY48WVXwDcQnCCqA&usqp=CAU",
+      "name": "Pokemon Volcanion",
+      "kategori": "manga",
+      "price": "IDR 35.000"
+    }
+  ]
+}

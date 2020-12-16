@@ -55,6 +55,9 @@ function selectCategory() {
   })
   this.classList.add("active")
   var category = this.dataset.url;
+  if (category == "all") {
+    defaultCategory();
+  }
   const xhrCategories = new XMLHttpRequest();
   xhrCategories.onloadend = function() {
     var dataCategories = JSON.parse(this.responseText);
